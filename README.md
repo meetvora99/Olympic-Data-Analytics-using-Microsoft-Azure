@@ -10,9 +10,9 @@ Empowered data analysis and visualization through Azure Synapse Analytics, enabl
 
 ## Technology Used
 - Programming Language - Python
-- Microsoft Azure (AWS)
+- Microsoft Azure 
 1. Azure Data Factory
 2. Azure Data Lake
 3. Azure Databricks
 4. Azure Synapse
-5. Tableau
+- Tableau
