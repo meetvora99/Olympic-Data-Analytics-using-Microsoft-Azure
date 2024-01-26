@@ -6,7 +6,7 @@ Streamlined data ingestion and transformation using Azure Data Factory, Azure Da
 Empowered data analysis and visualization through Azure Synapse Analytics, enabling SQL querying of transformed data and insightful visualizations with Tableau.
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="Architecture.JPG">
 
 ## Technology Used
 - Programming Language - Python
